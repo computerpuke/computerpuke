@@ -1,9 +1,9 @@
 <!-- <p align="center">
-    <img alt="" src=https://img.shields.io/github/stars/xtekky?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
-    <img alt="" src=https://komarev.com/ghpvc/?username=xtekky&style=for-the-badge />
+    <img alt="" src=https://img.shields.io/github/starscomputerpuke?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
+    <img alt="" src=https://komarev.com/ghpvc/?username=computerpuke&style=for-the-badge />
 </p> -->
 
-telegram: [t.me/onlpx](https://t.me/adenwtf)
+telegram: [t.me/computerpuke](https://t.me/adenwtf)
 
 <h2 align="center">About Me </h2>
 
